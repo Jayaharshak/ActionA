@@ -1,0 +1,70 @@
+Task 1:
+=======
+Write a Java program that determines a student’s grade.
+The program will read three types of scores(quiz, mid-term, and final scores) and determine the grade based on the following rules:
+-if the average score >=90% =>grade=A
+-if the average score >= 70% and <90% => grade=B
+-if the average score>=50% and <70% =>grade=C
+-if the average score<50% =>grade=F
+See the example output below:
+
+Quiz score: 80
+
+Mid-term score: 68
+
+Final score: 90
+
+Your grade is B.
+
+Exercise 1: (Using if .. else ladder) IfElseDemo.java
+
+Exercise 2: (Using switch) SwitchDemo.java
+
+Task 2: Print follwing triangles:
+=================================
+Pattern 1: ( Using while) TrianglePattern1.java
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+Pattern 2: ( Using while) TrianglePattern2.java
+
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+Pattern 3: ( Using do while) TrianglePattern3.java
+
+* * * * *
+* * * *
+* * *
+* *
+*
+
+Pattern 4: ( Using do while) TrianglePattern4.java
+
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+	
+Pattern 5: (Using for) TrianglePattern5.java
+
+*               *
+* *           * *
+* * *       * * *
+* * * *   * * * *
+* * * * * * * * *
+
+Pattern 6: (Using for) TrianglePattern6.java
+* * * * * * * * *
+* * * *   * * * *
+* * *       * * *
+* *           * *
+*               *

@@ -1,0 +1,36 @@
+Create entities:(POJO)
+	Person : name, age, phone, nationality;
+	Student extends Person: rollNum, class, section, rank;
+	Teacher extends Person: employeId, qualification, subject;
+
+Create Abstract class:
+	PersonDemo - printBasicInfo(Person person) - print person details
+				abstract float calculateAttendancePercent(int presentDay, int totalDays);
+Extend Abstract Class:
+	StudentDemo extends PersonDemo; add a method printStudentInfo (show all the details in student object) 
+	TeacherDemo extends PersonDemo; add a method printTeacherInfo (show all the details in teacher object)
+	These methods should not be overridden;
+	
+create an interface:
+	StudentsMarks - add method calculateMark(StudentMarkEntity marks) (create StudentMarkEntity and add required values) ; 
+	TeacherSalary - add method calculateSalary(TeacherSalaryEntity salary) (create TeacherSalaryEntity and add required values)
+	
+Create custom exception for this calculation erros and throw it while using;
+So use try in calculations.
+
+Implement interface:
+	
+	StudentInfo extends StudentDemo implements StudentsMarks
+	TeacherInfo extends TeacherDemo implements TeacherSalary
+
+Main class:
+	Demo 
+	-> main() 
+		-> call all methods in StudentInfo and TeacherInfo;
+
+
+
+
+
+
+	
