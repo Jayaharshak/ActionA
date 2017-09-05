@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    
+    <title>Add Rows and columns</title>
+
+    <link href="https://cdn.foundation5.zurb.com/foundation.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.9/angular.min.js">
+	
+	</script>
+	<script  type="text/javascript" src = "ActionA.js"></script>
+  </head>
+
+  <body>
+    <div ng-app="productsTableApp">
+          <div ng-controller="ProductsController">
+            <p>JSON data: <br/>{{data}}
+            </p>
+            <label>Click on buttons to add or remove columns/rows</label>
+            
+                <input class="button" type="button" value="+Col" ng-click="addColumn()"/>
+                <input class="button" type="button" value="+Row" ng-click="addRow()"/>
+ 
+                <table>
+                    <tr ng-repeat="datum in data">
+                        <td> <button data-ng-click="removeRow($index)">Remove row</button></td>
+                        <td> Row: </td>
+                        <td ng-repeat="field in datum">
+                          <input type="text" ng-model="field.en"/>
+                  			<button ng-click="removeColumn($index)">Remove</button>
+                  		 </td>
+                    </tr>
+                </table>
+
+          </div>
+     </div>
+   </body>
+</html>
