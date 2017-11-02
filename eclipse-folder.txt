@@ -1,0 +1,23 @@
+1.Initially download the Eclise
+
+You will get ZIP file like below..
+
+eclipse-java-oxygen-R-win32-x86_64.zip
+
+2. Unzip the file(or extract the files to folder)
+
+
+eclipse-java-oxygen-R-win32-x86_64
+
+3. Open this folder...you will have folder with name 
+	
+	eclipse
+
+4. U will have lot of files in that 
+
+	two exe files will be there (type --- Application)
+
+5. eclipse.exe 
+
+6. right click will get menu...in that click on pin to taskbar.
+
