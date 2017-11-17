@@ -1,0 +1,184 @@
+
+Angular 2
+
+Introduction to Angular2 - 01:30 hrs
+(https://www.youtube.com/watch?v=rfry-RY2OGw)
+
+Core concepts of Angular - 2:30 hrs
+(https://angular.io/docs/ts/latest/guide/architecture.html)
+
+AngularJs Versus Angular - 00:45 mins
+(https://www.cubettech.com/blog/angular-vs-angularjs-2-a-detailed-comparison/)
+
+Building Blocks of Angular
+
+Module
+Introduction to Modules - 00:45 mins
+(https://angular-2-training-book.rangle.io/handout/modules/introduction.html)
+
+NgModule - 01:00 hr
+(https://angular.io/docs/ts/latest/guide/ngmodule.html)
+
+Component
+
+Component Based thinking in Angular - Part 1 - 01:30 hrs
+(http://busypeoples.github.io/post/thinking-in-components-angular-js/)
+
+Component Based thinking in Angular - Part 2 - 01:30 hrs
+(http://dontpanic.42.nl/2015/07/the-road-to-angular-20-part-4-components.html)
+
+Component Decorator - 00:45 mins
+(https://angular.io/docs/ts/latest/api/core/index/Component-decorator.html)
+
+Creating Our first component - 2:30 hrs
+(https://scotch.io/tutorials/creating-your-first-angular-2-components)
+
+Using Multiple Components - 1:00 hr
+(https://angular.io/docs/ts/latest/api/core/index/Component-decorator.html)
+
+How Components in Angular Communicate with each other - 2:30 hrs
+(https://angular.io/docs/ts/latest/cookbook/component-communication.html)
+
+Component Inheritance - 1:00 hr
+(https://scotch.io/tutorials/component-inheritance-in-angular-2)
+
+Templates
+
+Templates - Part 1 - 2:30 hrs
+(https://angular.io/docs/ts/latest/guide/template-syntax.html)
+
+Templates - Part 2 - 00:45 mins
+(https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
+
+Templates - Part 3 - 00:30 mins
+(http://learnangular2.com/templates/)
+
+Data Binding
+
+Introduction to DataBinding - Part 1 - 00:30 mins
+(http://voidcanvas.com/data-binding-in-angular-js-2-0-with-examples/)
+
+Introduction to DataBinding - Part 2 - 1:30 hrs
+(http://dontpanic.42.nl/2015/08/the-road-to-angular-20-part-5-bindings.html)
+
+Introduction to DataBinding - Part 3 - 1:30 hrs
+(https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html)
+
+Introduction to DataBinding - Part 4 - 1:30 hr
+(https://angular.io/docs/ts/latest/guide/displaying-data.html)
+
+Data Binding in Angular 1 versus Angular2 - 00:45 mins
+(https://www.themarketingtechnologist.co/introduction-to-data-binding-in-angular-2-versus-angular-1/)
+
+SERVICE
+
+https://coursetro.com/posts/code/20/Angular-2-Services-Tutorial---Understanding-&-Creating-Them - 1:30 hrs
+
+https://angular.io/docs/ts/latest/tutorial/toh-pt4.html - 1:30 hrs
+
+http://blog.brakmic.com/introduction-to-angular-2-part-4/ - 1:30 hrs
+
+https://code.tutsplus.com/tutorials/how-to-build-an-angular-2-service--cms-27943- 2:30 hrs
+
+ANGULAR HTTP SERVICE
+
+https://angular.io/docs/ts/latest/tutorial/toh-pt6.html - 1:30 hrs
+
+https://scotch.io/tutorials/angular-2-http-requests-with-observables - 1:30 hrs
+
+DEPENDENCY INJECTION
+
+https://angular.io/docs/ts/latest/guide/dependency-injection.html - 1:30 hrs
+
+https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html - 1:30 hrs
+
+https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18 - 1:30 hrs
+
+Change Detetction - Understanding Angular Zone
+
+https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html - 1:00 hr
+
+https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html - 1:00 hrs
+
+https://medium.com/@MertzAlertz/what-the-hell-is-zone-js-and-why-is-it-in-my-angular-2-6ff28bcf943e - 0:45 mins
+
+Forms in Angular
+
+https://angular.io/docs/ts/latest/guide/forms.html - 0:45 mins
+
+http://angularjs.blogspot.in/2015/03/forms-in-angular-2.html - 1:00 hr
+
+Angular Routing
+
+https://angular.io/docs/ts/latest/guide/router.html - 2:30 hrs
+
+Pipes in Angular
+
+https://angular.io/docs/ts/latest/guide/pipes.html - 1:00 hr
+
+http://blog.brakmic.com/introduction-to-angular-2-part-3/ - 1:00 hr
+
+BootStraping Angular
+
+https://toddmotto.com/bootstrap-angular-2-hello-world - 1:30 hrs
+
+https://www.tektutorialshub.com/bootstrapping-angular-2-application/ - 1:30 hrs
+
+Angular CLI
+
+https://scotch.io/tutorials/use-the-angular-cli-for-faster-angular-2-projects - 1:30 hrs
+
+State Management in Angular2 Applications
+
+https://dzone.com/articles/managing-state-in-angular-2-applications-1 - 1:30 hrs
+
+Securing Angular Applications
+
+https://auth0.com/blog/angular-2-authentication/ - 1:30 hrs
+
+http://4dev.tech/2016/03/login-screen-and-authentication-with-angular2/ - 1:30 hrs
+
+Angular2 and Typescript
+
+https://www.youtube.com/watch?v=KL4Yi3WtymA - 1:30 hrs
+
+https://www.youtube.com/watch?v=zoCLEwFUpqg - 3:00 hrs
+
+Upgrading to Angular from Angular1
+
+https://www.youtube.com/watch?v=ucUy0CoN57Q - 3:00 hrs
+
+https://angular.io/guide/upgrade - 1:30 hrs
+
+TDD with Angular
+
+https://angular.io/docs/ts/latest/guide/testing.html - 3:00 hrs
+
+https://dzone.com/articles/testing-angular-2-applications - 3:00 hrs
+
+https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine - 1:30 hrs
+
+https://semaphoreci.com/community/tutorials/testing-routes-in-angular-2 - 1:30 hrs
+
+https://semaphoreci.com/community/tutorials/testing-services-in-angular-2 - 1:30 hrs
+
+Style guide for Angular
+
+https://angular.io/docs/ts/latest/guide/style-guide.html - 1:30 hrs
+
+19 tips to make learning Angular 2 easier
+
+http://developer.telerik.com/featured/19-tips-to-make-learning-angular-2-easier/ - 0:45 mins
+
+Sample ToDo App in Angular
+
+https://www.youtube.com/watch?v=uD6Okha_Yj0 - 3:00 hrs
+
+MOVING AHEAD - ANGULAR4
+
+https://jaxenter.com/angular-4-top-features-133165.html - 0:30 Mins
+
+https://www.valuecoders.com/blog/industry-news/angular-4-release-comparision-angular-2/ - 0:30 Mins
+
+Powered by Redmine © 2006-2015 Jean-Philippe Lang
+
