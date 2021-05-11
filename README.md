@@ -1,4 +1,7 @@
 # ActionA
+
+Resources and Code -  Creating Web socket based messaging app with Java Springboot and Angular.
+
 This is to start with own tasks.
 
 
